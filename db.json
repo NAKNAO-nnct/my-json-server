@@ -1,0 +1,46 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "TEST 1 Article",
+            "description": "this is test article id = 1.",
+            "image": "https://via.placeholder.com/1280x640"
+        },
+        {
+            "id": 2,
+            "title": "TEST 2 Article",
+            "description": "this is test article id = 2.",
+            "image": "https://via.placeholder.com/1280x640"
+        },
+        {
+            "id": 3,
+            "title": "TEST 3 Article",
+            "description": "this is test article id = 3.",
+            "image": "https://via.placeholder.com/1280x640"
+        },
+        {
+            "id": 4,
+            "title": "TEST 4 Article",
+            "description": "this is test article id = 4.",
+            "image": "https://via.placeholder.com/1280x640"
+        },
+        {
+            "id": 5,
+            "title": "TEST 5 Article",
+            "description": "this is test article id = 5.",
+            "image": "https://via.placeholder.com/1280x640"
+        },
+        {
+            "id": 6,
+            "title": "TEST 6 Article",
+            "description": "this is test article id = 6.",
+            "image": "https://via.placeholder.com/1280x640"
+        },
+        {
+            "id": 7,
+            "title": "TEST 7 Article",
+            "description": "this is test article id = 7.",
+            "image": "https://via.placeholder.com/1280x640"
+        }
+    ]
+}
